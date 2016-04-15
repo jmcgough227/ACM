@@ -4,7 +4,6 @@
 // j.mcgough227@gmail.com
 
 #include <iostream>
-#include <vector>
 
 int main() {
   int charge1, charge2;
